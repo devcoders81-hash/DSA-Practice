@@ -1,4 +1,4 @@
-package Strings;
+
 public class ReverseWord {
     public static String reverseWords(String s) {
         String[] strs=s.split("\\s+");

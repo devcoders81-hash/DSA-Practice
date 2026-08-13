@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class StringCompression {
     public int compress(char[] chars) {

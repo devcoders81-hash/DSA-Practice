@@ -1,4 +1,4 @@
-package Strings;
+
 
 public class RemoveAllOccurence {
     public String removeOccurrences(String s, String part) {
